@@ -1,1 +1,1 @@
-# tailwind__spotify
+# spotify-tailwind
